@@ -18,4 +18,5 @@ public class MvcController {
         model.addAttribute("name", name);
         return "index";
     }
+
 }
